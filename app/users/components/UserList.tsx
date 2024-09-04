@@ -9,7 +9,7 @@ interface UserListProps {
 
 const UserList = ({items}: UserListProps) => {
     
-    console.log(items);
+    // console.log(items);
     
     
     return ( 
